@@ -1,8 +1,8 @@
-#Victoria Exclaim
+# Victoria Exclaim
 Showing all the beauty of Victoria
 
-##Pictures
+## Pictures
 
-##Cool places
+## Cool places
 
-##Yummy eats
+## Yummy eats
